@@ -1,6 +1,6 @@
 # Fedora 37 Ansible Test Image
 
-[![CI](https://github.com/buluma/docker-fedora37-ansible/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/buluma/docker-fedora37-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/geerlingguy/docker-fedora37-ansible)](https://hub.docker.com/r/geerlingguy/docker-fedora37-ansible/)
+[![CI](https://github.com/buluma/docker-fedora37-ansible/workflows/Build/badge.svg?branch=master&event=push)](https://github.com/buluma/docker-fedora37-ansible/actions?query=workflow%3ABuild) [![Docker pulls](https://img.shields.io/docker/pulls/buluma/docker-fedora37-ansible)](https://hub.docker.com/r/buluma/docker-fedora37-ansible/)
 
 Fedora 37 Docker container for Ansible playbook and role testing.
 
